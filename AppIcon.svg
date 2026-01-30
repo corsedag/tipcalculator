@@ -1,0 +1,56 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a"/>
+      <stop offset="100%" style="stop-color:#0d0d0d"/>
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4ade80"/>
+      <stop offset="100%" style="stop-color:#22c55e"/>
+    </linearGradient>
+    <linearGradient id="dollarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#4ade80"/>
+      <stop offset="100%" style="stop-color:#16a34a"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="url(#bgGradient)"/>
+  
+  <!-- Subtle grid pattern for texture -->
+  <g opacity="0.03">
+    <line x1="256" y1="0" x2="256" y2="1024" stroke="white" stroke-width="1"/>
+    <line x1="512" y1="0" x2="512" y2="1024" stroke="white" stroke-width="1"/>
+    <line x1="768" y1="0" x2="768" y2="1024" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="256" x2="1024" y2="256" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="512" x2="1024" y2="512" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="768" x2="1024" y2="768" stroke="white" stroke-width="1"/>
+  </g>
+  
+  <!-- Calculator receipt shape -->
+  <g transform="translate(512, 512)">
+    <!-- Main receipt body -->
+    <rect x="-180" y="-280" width="360" height="520" rx="32" fill="white" opacity="0.95"/>
+    
+    <!-- Receipt tear pattern at bottom -->
+    <path d="M-180 240 L-160 220 L-140 240 L-120 220 L-100 240 L-80 220 L-60 240 L-40 220 L-20 240 L0 220 L20 240 L40 220 L60 240 L80 220 L100 240 L120 220 L140 240 L160 220 L180 240 L180 240 L-180 240 Z" fill="white" opacity="0.95"/>
+    
+    <!-- Dollar sign circle background -->
+    <circle cx="0" cy="-100" r="100" fill="url(#greenGradient)"/>
+    
+    <!-- Dollar sign -->
+    <text x="0" y="-65" font-family="SF Pro Rounded, -apple-system, Arial, sans-serif" font-size="140" font-weight="700" fill="white" text-anchor="middle">$</text>
+    
+    <!-- Tip percentage lines -->
+    <rect x="-120" y="40" width="160" height="16" rx="8" fill="#e5e5e5"/>
+    <rect x="-120" y="80" width="120" height="16" rx="8" fill="#e5e5e5"/>
+    <rect x="-120" y="120" width="140" height="16" rx="8" fill="#e5e5e5"/>
+    
+    <!-- Percentage badge -->
+    <rect x="60" y="60" width="80" height="56" rx="12" fill="url(#greenGradient)"/>
+    <text x="100" y="100" font-family="SF Pro Rounded, -apple-system, Arial, sans-serif" font-size="32" font-weight="700" fill="white" text-anchor="middle">%</text>
+    
+    <!-- Total line -->
+    <rect x="-120" y="180" width="240" height="24" rx="12" fill="#1a1a1a"/>
+  </g>
+</svg>

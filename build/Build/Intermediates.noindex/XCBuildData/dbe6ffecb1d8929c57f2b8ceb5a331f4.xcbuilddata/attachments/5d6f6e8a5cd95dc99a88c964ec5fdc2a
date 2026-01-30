@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculator-master.dia",
+    "emit-module-dependencies" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculator-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculator-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculator-master.swiftdeps"
+  },
+  "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/danielguerithault/Documents/TipCalculator/TipCalculator/ContentView.swift" : {
+    "const-values" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/danielguerithault/Documents/TipCalculator/TipCalculator/TipCalculatorApp.swift" : {
+    "const-values" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculatorApp.swiftconstvalues",
+    "dependencies" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculatorApp.d",
+    "diagnostics" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculatorApp.dia",
+    "index-unit-output-path" : "/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculatorApp.o",
+    "llvm-bc" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculatorApp.bc",
+    "object" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculatorApp.o",
+    "swift-dependencies" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculatorApp.swiftdeps",
+    "swiftmodule" : "/Users/danielguerithault/Documents/TipCalculator/build/Build/Intermediates.noindex/TipCalculator.build/Debug-iphonesimulator/TipCalculator.build/Objects-normal/x86_64/TipCalculatorApp~partial.swiftmodule"
+  }
+}

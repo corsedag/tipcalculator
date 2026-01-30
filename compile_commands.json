@@ -1,0 +1,40 @@
+[
+  {
+    "directory": "/Users/danielguerithault/Documents/TipCalculator",
+    "file": "/Users/danielguerithault/Documents/TipCalculator/TipCalculator/ContentView.swift",
+    "arguments": [
+      "swiftc",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk",
+      "-target",
+      "arm64-apple-ios17.0-simulator",
+      "-swift-version",
+      "5.0",
+      "-module-name",
+      "TipCalculator",
+      "-F",
+      "/Users/danielguerithault/Library/Developer/Xcode/DerivedData/TipCalculator-afbhxylpwefqwmalsyajtrojzkrk/Build/Products/Debug-iphonesimulator",
+      "/Users/danielguerithault/Documents/TipCalculator/TipCalculator/ContentView.swift",
+      "/Users/danielguerithault/Documents/TipCalculator/TipCalculator/TipCalculatorApp.swift"
+    ]
+  },
+  {
+    "directory": "/Users/danielguerithault/Documents/TipCalculator",
+    "file": "/Users/danielguerithault/Documents/TipCalculator/TipCalculator/TipCalculatorApp.swift",
+    "arguments": [
+      "swiftc",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk",
+      "-target",
+      "arm64-apple-ios17.0-simulator",
+      "-swift-version",
+      "5.0",
+      "-module-name",
+      "TipCalculator",
+      "-F",
+      "/Users/danielguerithault/Library/Developer/Xcode/DerivedData/TipCalculator-afbhxylpwefqwmalsyajtrojzkrk/Build/Products/Debug-iphonesimulator",
+      "/Users/danielguerithault/Documents/TipCalculator/TipCalculator/ContentView.swift",
+      "/Users/danielguerithault/Documents/TipCalculator/TipCalculator/TipCalculatorApp.swift"
+    ]
+  }
+]
