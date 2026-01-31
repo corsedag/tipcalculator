@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     @State private var billAmount: String = ""
-    @State private var tipPercentage: Double = 20
+    @State private var tipPercentage: Double = 18
     @State private var numberOfPeople: Int = 1
     @FocusState private var amountIsFocused: Bool
     
